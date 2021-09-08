@@ -1,3 +1,5 @@
 This is the first comments
 
 Adding second line
+
+Line added from branch 1
